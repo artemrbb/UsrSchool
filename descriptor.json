@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "27693edb-1ffa-331f-7267-1efa96985e98",
+    "Name": "UsrSchool",
+    "ModifiedOnUtc": "\/Date(1681997545000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}

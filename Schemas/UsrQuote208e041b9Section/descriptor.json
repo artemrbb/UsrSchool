@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8154bc00-ba03-4c4d-b026-5f5ede3b37c0",
+    "Name": "UsrQuote208e041b9Section",
+    "ModifiedOnUtc": "\/Date(1682333176000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Котировка валют\""
+  }
+}

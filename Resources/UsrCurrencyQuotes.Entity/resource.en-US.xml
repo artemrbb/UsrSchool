@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Котировки валют" />
+			<Item Name="Columns.UsrCashlessPurchaseRate.Caption" Value="Курс безналичной покупки" />
+			<Item Name="Columns.UsrCashlessSaleRate.Caption" Value="Курс безналичной продажи" />
+			<Item Name="Columns.UsrCashPurchaseRate.Caption" Value="Курс наличной покупки" />
+			<Item Name="Columns.UsrCashSaleRate.Caption" Value="Курс наличной продажи" />
+			<Item Name="Columns.UsrCourse.Caption" Value="Курс" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrQuoteDate.Caption" Value="Дата котировки" />
+			<Item Name="Columns.UsrTypeCourse.Caption" Value="Тип курса" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4e430f21-347d-45f4-b9e2-b0716bef031c",
+    "Name": "UsrCurrencyType",
+    "ModifiedOnUtc": "\/Date(1682332053000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Валюта"
+  }
+}

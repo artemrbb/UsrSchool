@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a92920b-8ffb-4443-89c2-05119a5c922b",
+    "Name": "UsrQuote2Folder",
+    "ModifiedOnUtc": "\/Date(1682333191000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Котировка"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a952e74a-1343-44b6-809d-f83cf4399f3a",
+    "Name": "UsrQuote2Page",
+    "ModifiedOnUtc": "\/Date(1682333046000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Котировка\""
+  }
+}

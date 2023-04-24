@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2644589a-4ffa-48c5-a182-6bc7e43617af",
+    "Name": "UsrCourseEntity",
+    "ModifiedOnUtc": "\/Date(1682341764000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Курс сущности"
+  }
+}

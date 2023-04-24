@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6ae7f770-f5a5-48c9-9b74-06abd5f090be",
+    "Name": "UsrCourse",
+    "ModifiedOnUtc": "\/Date(1681999104000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Course",
+    "DependsOn": []
+  }
+}

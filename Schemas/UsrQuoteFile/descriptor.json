@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "91063c19-82c4-4fcc-9fe2-417ec804291f",
+    "Name": "UsrQuoteFile",
+    "ModifiedOnUtc": "\/Date(1682330710000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Котировка"
+  }
+}

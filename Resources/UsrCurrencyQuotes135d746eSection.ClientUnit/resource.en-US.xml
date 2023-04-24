@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема раздела: &quot;Котировки валют&quot;" />
+			<Item Name="LocalizableStrings.AddCourseTypeFixedFilterCaption.Value" Value="1" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Котировки валют" />
+			<Item Name="LocalizableStrings.CourseTypeFilterCaption.Value" Value="2" />
+		</Items>
+	</Group>
+</Resources>

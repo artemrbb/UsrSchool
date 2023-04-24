@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "850241ce-3ee3-4c08-add3-58333a5db0ff",
+    "Name": "UsrQuote21Page",
+    "ModifiedOnUtc": "\/Date(1682333181000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Котировка валют\""
+  }
+}

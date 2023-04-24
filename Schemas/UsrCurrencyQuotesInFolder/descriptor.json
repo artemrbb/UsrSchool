@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c171d1f-a4a6-4e27-9209-fad0594fd45b",
+    "Name": "UsrCurrencyQuotesInFolder",
+    "ModifiedOnUtc": "\/Date(1682072966000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Котировки валют в группе",
+    "DependsOn": []
+  }
+}

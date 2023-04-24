@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "40f807e5-d348-4694-9408-6dccdff611d7",
+    "Name": "UsrCurrencyQuotesFile",
+    "ModifiedOnUtc": "\/Date(1682072953000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Котировки валют",
+    "DependsOn": []
+  }
+}

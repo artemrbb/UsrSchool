@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "365f16d4-e840-4a09-abd9-979acbdaa241",
+    "Name": "UsrQuote2Tag",
+    "ModifiedOnUtc": "\/Date(1682333197000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Котировка"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "57185a6f-9699-4746-99ce-ea938a678685",
+    "Name": "UsrQuotea322c520Section",
+    "ModifiedOnUtc": "\/Date(1682330673000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Котировка\""
+  }
+}

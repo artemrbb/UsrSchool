@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4801f21b-42a9-4e67-b325-e057a5faae4f",
+    "Name": "UsrCurrencyQuotesTag",
+    "ModifiedOnUtc": "\/Date(1682072971000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Котировки валют",
+    "DependsOn": []
+  }
+}

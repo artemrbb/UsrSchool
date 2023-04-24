@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3dc8d573-99a8-4aff-93d2-d204560f2ffe",
+    "Name": "UsrCurrencyQuotes",
+    "ModifiedOnUtc": "\/Date(1682322302000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Котировки валют"
+  }
+}

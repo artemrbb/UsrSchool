@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "545edaaa-826d-40d1-8a25-35e934dc6d49",
+    "Name": "UsrQuoteInFolder",
+    "ModifiedOnUtc": "\/Date(1682330718000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Котировка в группе"
+  }
+}
