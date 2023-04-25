@@ -1,4 +1,4 @@
-define("UsrCurrencyQuotes135d746eSection", [], function() {
+define("UsrCurrencyQuotesSection", [], function() {
 	return {
 		entitySchemaName: "UsrCurrencyQuotes",
 		details: /**SCHEMA_DETAILS*/{}/**SCHEMA_DETAILS*/,
@@ -10,7 +10,7 @@ define("UsrCurrencyQuotes135d746eSection", [], function() {
 					entitySchema: this.entitySchema,
 					filters: [
 						{
-							name: "PeriodFilter",
+							name: "UsrQuoteDatePeriodFilter",
 							caption: this.get("Resources.Strings.PeriodFilterCaption"),
 							dataValueType: this.Terrasoft.DataValueType.DATE,
 							startDate: {
@@ -23,9 +23,9 @@ define("UsrCurrencyQuotes135d746eSection", [], function() {
                             }
 						},
 						{
-							name:"CourseTypeFilter",
-							caption: this.get("Resources.Strings.CourseTypeFilterCaption"),
-							addNewFilterCaption: this.get("Resources.Strings.AddCourseTypeFixedFilterCaption"),
+							name:"UsrCourseTypeFilter",
+							caption: this.get("Resources.Strings.UsrCourseTypeFilterCaption"),
+							addNewFilterCaption: this.get("Resources.Strings.UsrAddCourseTypeFixedFilterCaption"),
 							dataValueType: this.Terrasoft.DataValueType.LOOKUP,
 							columnName:"UsrTypeCourse",
 							appendCurrentContactMenuItem: false,

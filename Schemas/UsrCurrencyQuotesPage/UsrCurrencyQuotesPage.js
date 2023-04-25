@@ -1,4 +1,4 @@
-define("UsrCurrencyQuotes1Page", [], function() {
+define("UsrCurrencyQuotesPage", [], function() {
 	return {
 		entitySchemaName: "UsrCurrencyQuotes",
 		attributes: {},
@@ -19,7 +19,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 		diff: /**SCHEMA_DIFF*/[
 			{
 				"operation": "insert",
-				"name": "UsrName5184b23d-5268-40b8-9de2-1d9652ab0bb3",
+				"name": "UsrName",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -36,7 +36,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "DATETIME4a36ed95-ab6c-4cd4-9d35-e19b6105dc3e",
+				"name": "UsrQuoteDate",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -54,7 +54,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "FLOATa5e6ead0-8575-4e1d-943f-eef42378534a",
+				"name": "UsrCourse",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -72,7 +72,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "FLOAT908addae-b66d-4143-976b-ee16a9e4aa58",
+				"name": "UsrCashlessPurchaseRate",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -90,7 +90,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "FLOAT2acb063d-51c5-4433-9103-44d170ee1ae1",
+				"name": "UsrCashlessSaleRate",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -108,7 +108,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "FLOAT88f8bfa4-dea3-41e0-959b-8bcbd14d121f",
+				"name": "UsrCashPurchaseRate",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -126,7 +126,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "FLOAT04e5bec6-0335-4523-a15a-f8c89f303a75",
+				"name": "UsrCashSaleRate",
 				"values": {
 					"layout": {
 						"colSpan": 24,
@@ -144,7 +144,7 @@ define("UsrCurrencyQuotes1Page", [], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "LOOKUP673cf87c-e31f-43a6-859b-a754fe212ad5",
+				"name": "UsrTypeCourse",
 				"values": {
 					"layout": {
 						"colSpan": 12,
